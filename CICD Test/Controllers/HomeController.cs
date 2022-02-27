@@ -23,7 +23,6 @@ namespace CICD_Test.Controllers
             //debug3 - done7
             int total = x + y;
 
-
             return total;
         }
 
