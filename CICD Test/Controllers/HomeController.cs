@@ -29,6 +29,8 @@ namespace CICD_Test.Controllers
 
         public int Multiply(int x, int y)
         {
+        
+            //debug
             int total = x * y;
 
             return total;
