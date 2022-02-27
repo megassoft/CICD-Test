@@ -21,6 +21,7 @@ namespace CICD_Unit_Test
         [TestMethod]
         public void TestAdd()
         {
+            //debug
             const int EXPECTED = 5;
 
             int result = testHome.Add(X, Y);
@@ -31,7 +32,7 @@ namespace CICD_Unit_Test
         [TestMethod]
         public void TestMultiply()
         {
-            //debug 
+            //debug
             const int EXPECTED = 6;
 
             int result = testHome.Multiply(X, Y);
