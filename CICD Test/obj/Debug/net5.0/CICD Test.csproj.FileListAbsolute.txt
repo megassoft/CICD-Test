@@ -1,0 +1,40 @@
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\appsettings.Development.json
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\appsettings.json
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\CICD Test.exe
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\CICD Test.deps.json
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\CICD Test.runtimeconfig.json
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\CICD Test.runtimeconfig.dev.json
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\CICD Test.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\ref\CICD Test.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\CICD Test.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\CICD Test.Views.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\bin\Debug\net5.0\CICD Test.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.csproj.AssemblyReference.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.AssemblyInfoInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.AssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.csproj.CoreCompileInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.MvcApplicationPartsAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\staticwebassets\CICD Test.StaticWebAssets.Manifest.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\staticwebassets\CICD Test.StaticWebAssets.xml
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\scopedcss\bundle\CICD Test.styles.css
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.TagHelpers.input.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.TagHelpers.output.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorCoreGenerate.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorTargetAssemblyInfo.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorTargetAssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.Views.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\ref\CICD Test.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.genruntimeconfig.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.csproj.CopyComplete

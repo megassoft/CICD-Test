@@ -1,0 +1,7 @@
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Unit Test\obj\Debug\net5.0\CICD Unit Test.csproj.AssemblyReference.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Unit Test\obj\Debug\net5.0\CICD Unit Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Unit Test\obj\Debug\net5.0\CICD Unit Test.AssemblyInfoInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Unit Test\obj\Debug\net5.0\CICD Unit Test.AssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Unit Test\obj\Debug\net5.0\CICD Unit Test.csproj.CoreCompileInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Unit Test\obj\Debug\net5.0\CICD Unit Test.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Unit Test\obj\Debug\net5.0\ref\CICD Unit Test.dll
