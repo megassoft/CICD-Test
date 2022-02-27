@@ -38,3 +38,42 @@ C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\
 C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.pdb
 C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.genruntimeconfig.cache
 C:\ProgramData\Jenkins\.jenkins\workspace\CI-CD Test\CICD Test\obj\Debug\net5.0\CICD Test.csproj.CopyComplete
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\appsettings.Development.json
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\appsettings.json
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\CICD Test.exe
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\CICD Test.deps.json
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\CICD Test.runtimeconfig.json
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\CICD Test.runtimeconfig.dev.json
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\CICD Test.dll
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\ref\CICD Test.dll
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\CICD Test.pdb
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\CICD Test.Views.dll
+D:\Visual Studio Projects\CICD Test\CICD Test\bin\Debug\net5.0\CICD Test.Views.pdb
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.AssemblyInfo.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorAssemblyInfo.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorAssemblyInfo.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\staticwebassets\CICD Test.StaticWebAssets.Manifest.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\staticwebassets\CICD Test.StaticWebAssets.xml
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\scopedcss\bundle\CICD Test.styles.css
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.TagHelpers.input.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.TagHelpers.output.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorCoreGenerate.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorTargetAssemblyInfo.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.RazorTargetAssemblyInfo.cs
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.Views.pdb
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.dll
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\ref\CICD Test.dll
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.pdb
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.genruntimeconfig.cache
+D:\Visual Studio Projects\CICD Test\CICD Test\obj\Debug\net5.0\CICD Test.csproj.CopyComplete
