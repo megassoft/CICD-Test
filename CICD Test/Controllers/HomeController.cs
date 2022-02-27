@@ -20,6 +20,7 @@ namespace CICD_Test.Controllers
           
         public int Add(int x, int y)
         {
+            //debug3 - done
             int total = x + y;
 
 
@@ -28,6 +29,8 @@ namespace CICD_Test.Controllers
 
         public int Multiply(int x, int y)
         {
+        
+            //debug
             int total = x * y;
 
             return total;
