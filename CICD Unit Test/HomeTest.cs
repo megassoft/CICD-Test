@@ -21,7 +21,7 @@ namespace CICD_Unit_Test
         [TestMethod]
         public void TestAdd()
         {
-            //debug
+            //fix from master
             const int EXPECTED = 5;
 
             int result = testHome.Add(X, Y);
