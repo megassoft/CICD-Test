@@ -31,6 +31,7 @@ namespace CICD_Unit_Test
         [TestMethod]
         public void TestMultiply()
         {
+            //debug
             const int EXPECTED = 6;
 
             int result = testHome.Multiply(X, Y);
