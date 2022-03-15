@@ -20,8 +20,8 @@ namespace CICD_Test.Controllers
           
         public int Add(int x, int y)
         {
-            //debug3 - done11
-            int total = x + y;
+            //debug3 - done9
+            int total = x * y;
 
             return total;
         }
