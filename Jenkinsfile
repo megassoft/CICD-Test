@@ -210,9 +210,9 @@ pipeline {
                         echo 'Entering Cleaning the Image'
                         echo 'Waiting for test'
                         sleep 30
-                        sshCommand remote: remote, command: "docker rm kaya -f"
+                        sshCommand remote: remote, command: "sudo docker rm kaya -f"
                         sleep 10
-                        sshCommand remote: remote, command: "docker rmi $registry:$BUILD_NUMBER"
+                        sshCommand remote: remote, command: "sudo docker rmi $registry:$BUILD_NUMBER"
                       } 
                     }
                 }
